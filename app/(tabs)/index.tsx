@@ -2,8 +2,7 @@ import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import SearchBar from '../../Component/Search';
 import Ionicons from '@expo/vector-icons/Ionicons';
-import EmergencyButton from '@/Component/EmergencyButton';
-
+import WaveThingy from '../../Component/WaveThingy'
 
 const Page = () => {
   return (
@@ -13,7 +12,7 @@ const Page = () => {
         <Ionicons style={styles.icon} name="search" size={24} color="black" />
       </View>
 
-        <EmergencyButton/>
+        <WaveThingy/>
     </View>
   );
 };
