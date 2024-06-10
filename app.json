@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sehatv1",
-    "slug": "sehatv1",
+    "name": "trial-app",
+    "slug": "trial-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
